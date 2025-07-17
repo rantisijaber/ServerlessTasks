@@ -8,7 +8,7 @@ A fully serverless REST API built on AWS using Node.js, designed to manage tasks
 
 This project implements a scalable, cost-effective task management backend using AWS services:
 
-- **API Gateway** to expose RESTful HTTP endpoints (`GET`, `POST`, `PUT`, `DELETE`)  
+- **API Gateway** to expose RESTful HTTP endpoints  
 - **AWS Lambda** functions to run your backend business logic in a serverless environment  
 - **Amazon DynamoDB** for fast, flexible NoSQL data storage and retrieval  
 
