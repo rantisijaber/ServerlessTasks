@@ -1,4 +1,4 @@
-# AWS Lambda Project
+# Serverless Task Manager
 
 This project is an AWS Lambda function built using Node.js.
 
