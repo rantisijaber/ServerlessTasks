@@ -26,7 +26,6 @@ The architecture allows you to focus on your application logic while AWS handles
 
 - Create, read, update, and delete tasks via REST API  
 - Serverless and event-driven with pay-per-use pricing  
-- High availability and scalability with AWS managed services  
 - Minimal maintenance overhead — no servers to provision or manage  
 
 ---
